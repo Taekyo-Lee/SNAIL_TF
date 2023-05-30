@@ -1,0 +1,2 @@
+A Tensorflow implementation of the SNAIL building blocks. 
+This code is nothing but a 'tensorflow version' of the SNAIL code implemented for PyTorch by  Benjamin Bastian under MIT License (https://github.com/sagelywizard/snail)
