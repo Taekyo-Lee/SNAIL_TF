@@ -1,0 +1,52 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/home2/taekyo.lee/miniconda3/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/home2/taekyo.lee/miniconda3/envs/gpu_test/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/home2/taekyo.lee/miniconda3/envs/lg_NLP/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/home2/taekyo.lee/miniconda3/envs/NLP/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/home2/taekyo.lee/miniconda3/envs/parallel/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/bin/python3.10",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/home2/taekyo.lee/miniconda3/envs/tf/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/home2/taekyo.lee/miniconda3/envs/tf_gpu/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/python",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
